@@ -1,0 +1,31 @@
+body {
+	font-size: 14px;
+	min-width: 400px;
+}
+
+#title {
+	color: #555;
+	margin-left: 10px;
+}
+
+#password {
+	border: 1px dashed #ccc;
+	background: #f4f4f4;
+	padding: 8px 5px;
+	margin: 10px;
+	margin-bottom: 0;
+	font-size: 20px;
+}
+
+#time {
+	color: green;
+	margin-left: 10px;
+}
+
+#time.change {
+	color: red;
+}
+
+#options {
+	margin: 10px;
+}
