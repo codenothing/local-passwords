@@ -8,18 +8,22 @@ body {
 	margin-left: 10px;
 }
 
+#pass-title {
+	font-weight: bold;
+	margin: 20px 0 0 10px;
+}
+
 #password {
 	border: 1px dashed #ccc;
 	background: #f4f4f4;
 	padding: 8px 5px;
-	margin: 10px;
-	margin-bottom: 0;
+	margin-left: 10px;
 	font-size: 20px;
 }
 
 #time {
 	color: green;
-	margin-left: 10px;
+	font-weight: normal;
 }
 
 #time.change {
